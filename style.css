@@ -130,7 +130,7 @@ li a:hover::after{
 .docente #nm{
     margin-bottom: 5%;
 }
- @media (max-width: 400px){
+@media (max-width: 420px){
     header{
         margin: auto;
         padding-left: 0px;
@@ -147,7 +147,7 @@ li a:hover::after{
         display: flex;
     }
     ul li{
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         margin-left: 10px;
     }
     .principal{
@@ -163,6 +163,9 @@ li a:hover::after{
     .principal .redes img{
         width: 8%;
     }
+    .Integrantes #logo{
+        width: 5%;
+    }
     #fundo1{
         margin-top: 5%;
         width: 60%;
@@ -176,4 +179,4 @@ li a:hover::after{
         left: 20%;
         margin-top: 1%;
     }
-}'
+}
